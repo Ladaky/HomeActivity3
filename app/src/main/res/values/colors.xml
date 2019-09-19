@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whiteish">#FAFAFA</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="grey">#BBB</color>
+    <color name="fit">#242F3D</color>
+    <color name="fite">#101A24</color>
+    <color name="navy_blue">#1B2734</color>
+    <color name="fite_home">#1B2734</color>
+    <color name="blue">#3897F0</color>
+    <color name="red">#D9555A</color>
+</resources>
