@@ -6,4 +6,5 @@ interface AuthManager {
     fun signOut()
     fun signIn(email: String, password: String): Task<Unit>
     //проверка)
+    //ghjdsgs
 }
